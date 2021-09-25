@@ -7,5 +7,7 @@ It take two inputs -
 
 On the basis of both the inputs the web app decides and then tells the user whether it's lucky or not.
 
+Tech Stack used -
+- React Js
 
 Created with CodeSandbox
