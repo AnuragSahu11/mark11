@@ -19,7 +19,7 @@ export default function App() {
   }
 
   function clickHandler() {
-    if (number && date) {
+    if (number > 0 && date) {
       const myArr = date.split("-").reduce((p, n) => {
         return parseInt(p) + parseInt(n);
       });
